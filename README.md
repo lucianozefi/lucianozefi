@@ -1,4 +1,7 @@
-### Hi there 👋
+
+- 👋 Hi there, I am Luciano
+- 🔭 I’m currently working on some personal Python Projects
+- 🌱 I’m currently learning Python
 
 <!--
 **lucianozefi/lucianozefi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
